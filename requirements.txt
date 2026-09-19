@@ -1,4 +1,4 @@
 streamlit
 groq
 chromadb
-pypdf2
+pypdf
